@@ -1,4 +1,3 @@
 # Production requirements for Heorku
 # use requirements/dev.txt for local development and testing
--r requirements/common.txt
 notebook==6.0.3
