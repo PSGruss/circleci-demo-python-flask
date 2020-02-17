@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: jupyter/base-notebook:latest
+      - image: circlci/python
     steps:
       - checkout
       - run:
